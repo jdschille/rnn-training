@@ -207,4 +207,4 @@ marimo/_lsp/
 __marimo__/
 
 # custom: omit /losses folder containing large csv files
-/code/losses
+losses/
